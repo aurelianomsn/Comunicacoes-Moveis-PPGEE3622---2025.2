@@ -161,4 +161,5 @@ for indice_Rice = 1:length(K_R)
     ylim([1e-5 1]);
     xlim([-30 30]);
     set(gca, 'FontSize', 11);
+
 end
